@@ -1,6 +1,6 @@
 # Aspect of the End (from wish)
-shoddily put together datapack within the limitations of minecraft commands <br />
-made for personal use to fly around large world downloads <br />
+shoddily put together within the limitations of minecraft commands <br />
+datapack made for personal use to fly around large world downloads <br />
 
 commands: <br />
 /function aote:get to obtain the item <br />
